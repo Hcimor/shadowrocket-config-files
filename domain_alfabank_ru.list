@@ -1,0 +1,10 @@
+# NAME: domain_alfabank_ru.list
+# AUTHOR: hcimor
+# REPO: https://github.com/misha-tgshv/shadowrocket-config-files
+# SOURCE: https://raw.githubusercontent.com/Hcimor/shadowrocket-config-files/refs/heads/main/domain_alfabank_ru.list
+# Количество доменов: 5
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,alfaintra.net
+DOMAIN-SUFFIX,alfa.me
+DOMAIN-SUFFIX,alfa-bank.net
+DOMAIN-SUFFIX,achat.best
