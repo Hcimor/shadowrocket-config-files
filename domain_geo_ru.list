@@ -1,7 +1,6 @@
 # NAME: domain_geo_ru.list
 # AUTHOR: hcimor
 # REPO: https://github.com/misha-tgshv/shadowrocket-config-files
-# UPDATED: 2026-04-07 04:13:50 MSK
 # SOURCE: https://raw.githubusercontent.com/Hcimor/shadowrocket-config-files/refs/heads/main/domain_geo_ru.list
 # Количество доменов: 3
 DOMAIN-SUFFIX,alfabank.ru
